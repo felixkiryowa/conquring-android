@@ -17,7 +17,7 @@ public class ButtonActivity extends AppCompatActivity {
     }
 
     public void optionOneSelected(View view) {
-        //Button btn = findViewById(R.id.Btn);
+        //Button btn = (Button) findViewById(R.id.Btn);
         Toast.makeText(this,"Option 1 Selected",Toast.LENGTH_SHORT).show();
     }
 
