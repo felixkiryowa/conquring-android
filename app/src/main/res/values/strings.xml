@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">conquring android</string>
     <string name="click_here">Click here!</string>
+    <string name="appbar_scrolling_view_behavior">scrolling behavior</string>
 </resources>
